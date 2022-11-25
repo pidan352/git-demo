@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 aaaaa
-=======
 aaaab
->>>>>>> hot-fix
 jdsj
